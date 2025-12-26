@@ -53,6 +53,6 @@ I’m a Computer Science student exploring web development, data science, and cy
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adri935&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri935&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adri935&show_icons=true&theme=tokyonight&hide_border=true"/> &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adri935&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
